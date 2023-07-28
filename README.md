@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Kugu as a Senior Software Engineer<br>👯 I’m looking to collaborate over different repos<br>🌱 I’m currently learning more about DevOps and React<br>💬 Get in touch: nathan.sandi@gmail.com
+🔭 I’m currently working on Camunda as a Software Engineer<br>👯 I’m looking to collaborate over different repos<br>🌱 I’m currently learning more about DevOps and React<br>💬 Get in touch: nathan.sandi@gmail.com
 
 
 ## 🌐 Socials:
