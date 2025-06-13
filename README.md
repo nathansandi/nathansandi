@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on Camunda as a Software Engineer<br>👯 I’m looking to collaborate over different repos<br>🌱 I’m currently learning more about DevOps and React<br>💬 Get in touch: nathan.sandi@gmail.com
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nathan.sandi) 
